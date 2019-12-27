@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise 4</string>
+    <string name="date">Date</string>
+    <string name="allowable_investment_amount">Allowable Investment Amount :</string>
+    <string name="min_base_saving">Min. Base Saving :</string>
+    <string name="age">Age :</string>
+</resources>
